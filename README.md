@@ -15,7 +15,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - ![HTML5](https://img.icons8.com/color/20/000000/html-5.png) HTML5
 - ![CSS3](https://img.icons8.com/color/20/000000/css3.png) CSS3
-- ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript
 - ![TypeScript](https://img.icons8.com/color/20/000000/typescript.png) TypeScript
 - ![React](https://img.icons8.com/color/20/000000/react-native.png) React
 
