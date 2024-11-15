@@ -13,11 +13,20 @@ O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizand
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **React** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- **TypeScript** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Date-fns** ![Date-fns](https://img.shields.io/badge/-date--fns-3D3D3D?logo=date-fns&logoColor=white)
-- **React Icons** ![React Icons](https://img.shields.io/badge/-React_Icons-61DAFB?logo=react&logoColor=black)
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+- **React**  
+  ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
+- **TypeScript**  
+  ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg)
+
+- **Date-fns**  
+  ![Date-fns](https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg)
+
+- **React Icons**  
+  ![React Icons](https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png)
+
+- **Tailwind CSS**  
+  ![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg)
 
 ## Como Usar
 
@@ -34,4 +43,3 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 Agradecemos por conferir o **ViaCep-Project**! Caso tenha sugestões ou melhorias, sinta-se à vontade para contribuir.
-
