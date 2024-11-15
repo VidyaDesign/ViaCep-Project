@@ -13,11 +13,11 @@ O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizand
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" /> **React**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg" alt="TypeScript" width="30" /> **TypeScript**
-- <img src="https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg" alt="Date-fns" width="30" /> **Date-fns**
-- <img src="https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png" alt="React Icons" width="30" /> **React Icons**
-- <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="Tailwind CSS" width="30" /> **Tailwind CSS**
+- ![HTML5](https://img.icons8.com/color/20/000000/html-5.png) HTML5
+- ![CSS3](https://img.icons8.com/color/20/000000/css3.png) CSS3
+- ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript
+- ![TypeScript](https://img.icons8.com/color/20/000000/typescript.png) TypeScript
+- ![React](https://img.icons8.com/color/20/000000/react-native.png) React
 
 ## Como Usar
 
