@@ -14,19 +14,19 @@ O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizand
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **React**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" />
 
 - **TypeScript**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg" alt="TypeScript" width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg" alt="TypeScript" width="30" />
 
 - **Date-fns**  
-  <img src="https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg" alt="Date-fns" width="10" />
+  <img src="https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg" alt="Date-fns" width="30" />
 
 - **React Icons**  
-  <img src="https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png" alt="React Icons" width="10" />
+  <img src="https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png" alt="React Icons" width="30" />
 
 - **Tailwind CSS**  
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="Tailwind CSS" width="10" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="Tailwind CSS" width="30" />
 
 ## Como Usar
 
