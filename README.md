@@ -14,19 +14,19 @@ O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizand
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **React**  
-  ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="10" />
 
 - **TypeScript**  
-  ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo_2020.svg" alt="TypeScript" width="10" />
 
 - **Date-fns**  
-  ![Date-fns](https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg)
+  <img src="https://raw.githubusercontent.com/date-fns/date-fns/main/docs/logo.svg" alt="Date-fns" width="10" />
 
 - **React Icons**  
-  ![React Icons](https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png)
+  <img src="https://raw.githubusercontent.com/react-icons/react-icons/main/pack-icons/logos/react-icons.png" alt="React Icons" width="10" />
 
 - **Tailwind CSS**  
-  ![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg)
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="Tailwind CSS" width="10" />
 
 ## Como Usar
 
@@ -43,3 +43,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 Agradecemos por conferir o **ViaCep-Project**! Caso tenha sugestões ou melhorias, sinta-se à vontade para contribuir.
+
