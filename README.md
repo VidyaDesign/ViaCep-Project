@@ -1,4 +1,4 @@
-# ViaCep-Project
+# ![Lupa](https://img.icons8.com/ios-filled/50/000000/search.png) ViaCep-Project
 
 O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizando o CEP. Ele exibe as informações em uma tabela interativa e oferece uma interface simples e eficiente para buscar, visualizar e excluir endereços armazenados localmente.
 
@@ -34,5 +34,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 Agradecemos por conferir o **ViaCep-Project**! Caso tenha sugestões ou melhorias, sinta-se à vontade para contribuir.
+
 
 
