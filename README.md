@@ -1,39 +1,36 @@
-# ![Lupa Laranja](https://img.icons8.com/ios-filled/40/FFA500/search.png) ViaCep-Project
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-O **ViaCep-Project** é um aplicativo que permite consultar endereços utilizando o CEP. Ele exibe as informações em uma tabela interativa e oferece uma interface simples e eficiente para buscar, visualizar e excluir endereços armazenados localmente.
+## Getting Started
 
-## Funcionalidades
+First, run the development server:
 
-- **Consulta de Endereço por CEP**: O usuário pode digitar o CEP e obter informações detalhadas sobre o endereço, como logradouro, bairro, cidade, estado e o próprio CEP.
-- **Armazenamento Local**: Os endereços são armazenados no `localStorage`, garantindo que as informações persistam mesmo após o fechamento da página.
-- **Exclusão de Endereços**: É possível remover endereços da lista com um simples clique no ícone de exclusão.
-- **Formatação de CEP**: O CEP é automaticamente formatado enquanto o usuário digita, com a adição do hífen.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Tecnologias Utilizadas
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- ![HTML5](https://img.icons8.com/color/20/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/color/20/000000/css3.png) CSS3
-- ![TypeScript](https://img.icons8.com/color/20/000000/typescript.png) TypeScript
-- ![React](https://img.icons8.com/color/20/000000/react-native.png) React
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Como Usar
+## Learn More
 
-1. **Digite o CEP** na caixa de entrada.
-2. Clique em **Obter Endereço** para buscar as informações.
-3. Visualize o endereço na tabela. Você pode excluir qualquer endereço clicando no ícone de lixeira.
+To learn more about Next.js, take a look at the following resources:
 
-## Como Contribuir
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para suas alterações.
-3. Envie um pull request com suas melhorias ou correções.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-Agradecemos por conferir o **ViaCep-Project**! Caso tenha sugestões ou melhorias, sinta-se à vontade para contribuir.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

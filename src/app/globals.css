@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Carregar a fonte Ubuntu */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+/* Aplicando a fonte Ubuntu no body */
+body {
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  background-color: rgb(29, 29, 29);
+}
+
+/* Estilo personalizado para h1 */
+h1 {
+  font-size: 40px;
+}
+
+/* Criando a classe utilitária text-balance */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Exemplo de media queries comentadas */
+/*
+@media only screen and (max-width: 600px) {
+  nav {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  #button-menu {
+    display: none;
+  }
+}
+*/
