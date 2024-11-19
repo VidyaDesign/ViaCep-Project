@@ -1,9 +1,5 @@
 # Endereço Fácil - Gestão Simplificada de Endereços  
 
-![React Icon](https://img.icons8.com/color/30/react-native.png)  
-![TypeScript Icon](https://img.icons8.com/color/30/typescript.png)  
-![CSS Icon](https://img.icons8.com/color/30/css3.png)  
-
 ## 📋 Sobre o Projeto  
 
 **Endereço Fácil** é uma aplicação React que permite consultar e gerenciar endereços a partir de um CEP informado. Os dados são armazenados no `localStorage` para persistência e fácil acesso.
