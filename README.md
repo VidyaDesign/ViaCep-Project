@@ -30,9 +30,9 @@
 
 ## 🛠️ Tecnologias Utilizadas  
 
-- **React** ![React Icon](https://img.icons8.com/color/30/react-native.png): Framework JavaScript para construção de interfaces de usuário.  
-- **TypeScript** ![TypeScript Icon](https://img.icons8.com/color/30/typescript.png): Superset do JavaScript para maior segurança e produtividade.  
-- **CSS** ![CSS Icon](https://img.icons8.com/color/30/css3.png): Estilização customizada da aplicação, incluindo barras de rolagem estilizadas.  
+- ![React Icon](https://img.icons8.com/color/30/react-native.png)  **React**  
+- ![TypeScript Icon](https://img.icons8.com/color/30/typescript.png) **TypeScript**  
+- ![CSS Icon](https://img.icons8.com/color/30/css3.png) **CSS** 
 - **date-fns**: Biblioteca para manipulação e formatação de datas.  
 
 ---
