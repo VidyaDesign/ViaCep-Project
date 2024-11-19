@@ -1,18 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Endereço Fácil - Gestão Simplificada de Endereços  
 
-## Getting Started
+![React Icon](https://img.icons8.com/color/30/react-native.png)  
+![TypeScript Icon](https://img.icons8.com/color/30/typescript.png)  
+![CSS Icon](https://img.icons8.com/color/30/css3.png)  
 
-First, run the development server:
+## 📋 Sobre o Projeto  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Endereço Fácil** é uma aplicação React que permite consultar e gerenciar endereços a partir de um CEP informado. Os dados são armazenados no `localStorage` para persistência e fácil acesso.
+
+---
+
+## 🚀 Funcionalidades  
+
+- **Consultar Endereços pelo CEP**  
+  Insira um CEP válido e obtenha informações detalhadas como logradouro, bairro, cidade e estado.  
+
+- **Validação Automática de CEP**  
+  O formato do CEP é validado automaticamente para evitar entradas incorretas.  
+
+- **Listagem de Endereços**  
+  Visualize e organize todos os endereços salvos em uma tabela estilizada.  
+
+- **Exclusão de Endereços**  
+  Remova endereços individuais com um clique no ícone de exclusão.  
+
+- **Armazenamento Persistente**  
+  Os endereços são salvos no `localStorage` para que estejam disponíveis mesmo após recarregar a página.  
+
+- **Visualização de Tempo**  
+  Visualize há quanto tempo o endereço foi adicionado utilizando a biblioteca `date-fns`.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+
+- **React** ![React Icon](https://img.icons8.com/color/30/react-native.png): Framework JavaScript para construção de interfaces de usuário.  
+- **TypeScript** ![TypeScript Icon](https://img.icons8.com/color/30/typescript.png): Superset do JavaScript para maior segurança e produtividade.  
+- **CSS** ![CSS Icon](https://img.icons8.com/color/30/css3.png): Estilização customizada da aplicação, incluindo barras de rolagem estilizadas.  
+- **date-fns**: Biblioteca para manipulação e formatação de datas.  
+
+---
+
+## 📦 Como Executar  
+
+1. **Clone este repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
